@@ -1,0 +1,18 @@
+body
+{
+background-position: center;
+background-size: cover;
+}
+.heading{
+    width: 100%;
+    text-align: center;
+}
+.modal-body{
+    text-align: left;
+    font-size: 20px;
+}
+canvas {
+    border: 5px solid black;
+     box-shadow: 5px 5px 5px lawngreen;
+     border-radius: 5px;
+}
